@@ -10,6 +10,8 @@ public class FristClass {
 
 		System.out.println("Our second commit from local repo");
 		
+		System.out.println("Alahu akbar song");
+		
 	}
 
 }
